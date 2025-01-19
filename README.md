@@ -12,8 +12,7 @@ This project performs sentiment analysis on stock-related news articles using th
 #### **How to Use**
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-username/vader-sentiment-analysis.git
-   cd vader-sentiment-analysis
+   git clone https://github.com/hemanthreddyaeddulla/Sentiment-Analysis-Using-VADER-on-Stock-News
    ```
 
 2. **Install Dependencies**:  
